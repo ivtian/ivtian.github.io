@@ -46,15 +46,8 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">YO'NALISHLAR</a>
           <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="#western">Rangtasvir (dastgohli)</a>
-			<a class="dropdown-item" href="#western">Grafika (Xattotlik va miniatyura)</a>
-			<a class="dropdown-item" href="#western">Haykaltaroshlik</a>
-			<a class="dropdown-item" href="#western">Rangtasvir (mahobatli)</a>
-            <a class="dropdown-item" href="#kenyan">Amaliy  san’at (badiiy kulolchilik)</a>
-			<a class="dropdown-item" href="#kenyan">Amaliy san’at (me’moriy yodgorliklar bezagini ta’mirlash)</a>
-			<a class="dropdown-item" href="#kenyan">Reklama va amaliy grafika</a>
-			<a class="dropdown-item" href="#kenyan">Kompyuter grafikasi va badiiy foto</a>
-			<a class="dropdown-item" href="#kenyan">Rangtasvir (multfilm va kompyuter multiplikatsiyasi)</a>
+            <a class="dropdown-item" href="#western">HAYKALTAROSHLIK</a>
+            <a class="dropdown-item" href="#kenyan">BOSHQA</a>
           </div>
         </li>
       </ul>
