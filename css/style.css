@@ -129,7 +129,7 @@ body {
 }
 
 .tl-year {
-  text-decoration: line-through;
+  text-decoration: none;
 }
 
 .tl-item:hover .tl-year {
