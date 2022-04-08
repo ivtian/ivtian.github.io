@@ -25,7 +25,7 @@
 
   <div class="text-center" id="brandName">
     <a class="navbar-brand" href="#" id="logo">
-      <img class="wow fadeInUpBig" src="imgs/logo.png" alt="an image of logo" width="60%">
+      <img class="wow fadeInUpBig" src="imgs/logo.png" alt="Obline Muzey" width="60%">
       <hr class="style-one">
     </a>
   </div>
